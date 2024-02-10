@@ -1,4 +1,5 @@
 Hi , 
-I am Rishabh and I am a machine learning programmer in python language besides this 
-I know various other languages like C/C++ , Java , Javascript 
-Thanks
+I am Rishabh,
+I am very passionate and curious about machine learning and deep learning 
+I know various languages like c/c++, python , javascript etc 
+
