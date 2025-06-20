@@ -6,9 +6,14 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, HTML/CSS,Java,C/C++,C sharp
-- **ML/DL Frameworks:** TensorFlow, Keras, PyTorch
-- **Computer Vision:** OpenCV, YOLOv5/v8, MediaPipe
-- **NLP:** spaCy, NLTK, HuggingFace Transformers
-- **Web Tools:** Streamlit, Flask, FastAPI
-- **Tools & Platforms:** Git, Colab, Jupyter, VS Code, Obsidian
+- **ML/DL Frameworks:** TensorFlow, Keras
+- **Computer Vision:** OpenCV, YOLOv11, MediaPipe
+- **NLP:** spaCy, NLTK, HuggingFace Transformers,genism
+- **Web Tools:** Streamlit, Flask
+- **Tools & Platforms:** Git, Colab, Jupyter, VS Code, Obsidian,kaggle 
+
+## 🌍 Connect with Me
+
+- 📊 Kaggle: [kaggle.com/rishabh2007](https://www.kaggle.com/rishabh2007)
+- 🔗 SoloLearn : [sololearn.com/Rishabh](https://www.sololearn.com/en/profile/17395211)
 
