@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Rishabh!  , <br/>
-**I'm a passionate developer with a deep love for **Machine Learning**, **Computer Vision**, and **Natural Language Processing** <br />
+**I'm a passionate developer with a deep love for **Machine Learning**, **Computer Vision**, and **Natural Language Processing** !** <br />
 
 
 ## 🛠️ Tech Stack
