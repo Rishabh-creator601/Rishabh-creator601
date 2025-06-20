@@ -1,5 +1,11 @@
 Hi , 
-I am Rishabh,
-I am very passionate and curious about machine learning and deep learning 
-I know various languages like c/c++, python , javascript etc 
+**I am Rishabh**, <br/>
+I am very passionate and curious about machine learning and deep learning  <br />
+I know various languages :
+-  C/C++
+- Javascript 
+- SQL 
+- python 
+- Java 
+- C sharp 
 
