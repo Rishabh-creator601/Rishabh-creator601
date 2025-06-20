@@ -6,8 +6,8 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, HTML/CSS,Java,C/C++,C sharp
-- **ML/DL Frameworks:** TensorFlow, Keras
-- **Computer Vision:** OpenCV, YOLOv11, MediaPipe
+- **ML/DL Frameworks:** TensorFlow, Keras,Scikit-learn
+- **Computer Vision:** OpenCV, YOLOv11, MediaPipe,DeepFace,FaceNet
 - **NLP:** spaCy, NLTK, HuggingFace Transformers,genism
 - **Web Tools:** Streamlit, Flask
 - **Tools & Platforms:** Git, Colab, Jupyter, VS Code, Obsidian,kaggle 
