@@ -15,6 +15,9 @@
 
 ## 🌍 Connect with Me
 
-![Kaggle Summary Card](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?rishabh2007)
 - 🔗 SoloLearn : [sololearn | Rishabh](https://www.sololearn.com/en/profile/17395211)
+
+
+![Kaggle Summary Card](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?rishabh2007)
+
 
