@@ -14,10 +14,9 @@
 - **Tools & Platforms:** Git, Colab, Jupyter, VS Code, Obsidian,kaggle 
 
 ## 🌍 Connect with Me
-
+- Kaggle : [Kaggle | rishabh2007](https://www.kaggle.com/rishabh2007/code?orderBy=dateUpdated)
 - 🔗 SoloLearn : [sololearn | Rishabh](https://www.sololearn.com/en/profile/17395211)
 
 
-![Kaggle Summary Card](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?rishabh2007)
 
 
