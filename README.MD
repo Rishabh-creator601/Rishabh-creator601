@@ -5,7 +5,8 @@
 
 ## 🛠️ Tech Stack
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![Python](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
 
@@ -18,6 +19,7 @@ https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoCol
 - **Tools & Platforms:** Git, Colab, Jupyter, VS Code, Obsidian,kaggle 
 
 ## 🌍 Connect with Me
+![Kaggle ](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 - Kaggle : [Kaggle | rishabh2007](https://www.kaggle.com/rishabh2007/code?orderBy=dateUpdated)
 - SoloLearn : [sololearn | Rishabh](https://www.sololearn.com/en/profile/17395211)
 - HackerRank : [HackerRank  | rishabh](https://www.hackerrank.com/rashesh369)
