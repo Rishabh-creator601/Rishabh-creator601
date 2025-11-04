@@ -30,7 +30,7 @@
 ![HackerRank 5★](https://img.shields.io/badge/HackerRank-5%20★-brightgreen?logo=hackerrank)
 
 1) **HackerRank**: Achieved **5⭐ in Python**.  
-2) **Kaggle rank** : 4300
+2) **Kaggle rank** : Under 5k 
 
 
 
