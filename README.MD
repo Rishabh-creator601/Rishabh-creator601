@@ -34,6 +34,6 @@
 
 
 ## Profile Stats 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rishabh-Creator601&theme=dark)](https://git.io/streak-stats)
+[![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh-creator601)](https://github.com/anuraghazra/github-readme-stats)
 
 
