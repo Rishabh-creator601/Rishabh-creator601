@@ -19,11 +19,9 @@
 
 
 ## Achivements:
-# My Projects
-
 ![HackerRank 5★](https://img.shields.io/badge/HackerRank-5%20★-brightgreen?logo=hackerrank)
 
-**HackerRank**: Achieved **5★ in Python**.  
+1) **HackerRank**: Achieved **5⭐ in Python**.   <br/>
 [View my HackerRank profile](https://www.hackerrank.com/rashesh369)
 
 
