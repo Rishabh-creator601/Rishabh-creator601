@@ -15,14 +15,15 @@
 
 ## 🌍 Connect with Me
 - Kaggle : [Kaggle | rishabh2007](https://www.kaggle.com/rishabh2007/code?orderBy=dateUpdated)
-- 🔗 SoloLearn : [sololearn | Rishabh](https://www.sololearn.com/en/profile/17395211)
+- SoloLearn : [sololearn | Rishabh](https://www.sololearn.com/en/profile/17395211)
+- HackerRank : [HackerRank  | rishabh](https://www.hackerrank.com/rashesh369)
 
 
 ## Achivements:
 ![HackerRank 5★](https://img.shields.io/badge/HackerRank-5%20★-brightgreen?logo=hackerrank)
 
-1) **HackerRank**: Achieved **5⭐ in Python**.   <br/>
-[View my HackerRank profile](https://www.hackerrank.com/rashesh369)
+1) **HackerRank**: Achieved **5⭐ in Python**.  
+
 
 
 
