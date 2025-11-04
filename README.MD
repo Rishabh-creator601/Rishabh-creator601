@@ -18,5 +18,15 @@
 - 🔗 SoloLearn : [sololearn | Rishabh](https://www.sololearn.com/en/profile/17395211)
 
 
+## Achivements:
+# My Projects
+
+![HackerRank 5★](https://img.shields.io/badge/HackerRank-5%20★-brightgreen?logo=hackerrank)
+
+**HackerRank**: Achieved **5★ in Python**.  
+[View my HackerRank profile](https://www.hackerrank.com/rashesh369)
+
+
+
 
 
