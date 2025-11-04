@@ -33,6 +33,10 @@
 2) **Kaggle rank** : Under 5k 
 
 
+## Profile Stats 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rishabh-creator601&theme=merko)](https://git.io/streak-stats)
+
+
 
 
 
