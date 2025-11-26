@@ -7,17 +7,35 @@
 ## 🛠️ Tech Stack
 <div align="center">
 
-<img src="https://img.shields.io/badge/TensorFlow-ff6b9d?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-ffc2d1?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-ff8fab?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-ffb3d1?style=flat-square&logo=keras&logoColor=white"/>
+## 🧠 tech stack that hits different
+
+<br>
+
+My fav Languages 💖
+<br><br>
 <img src="https://img.shields.io/badge/Python-ff6b9d?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-ffc2d1?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-ff8fab?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML/CSS-ffb3d1?style=flat-square&logo=html5&logoColor=white"/>
 
+AI/Ml Frameworks I like :
+<br><br>
+<img src="https://img.shields.io/badge/TensorFlow-ff6b9d?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-ffc2d1?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-ff8fab?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-ffb3d1?style=flat-square&logo=keras&logoColor=white"/>
+
+Some childhood Friends : 
+<br><br>
+<img src="https://img.shields.io/badge/Pandas-ff6b9d?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-ffc2d1?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ff8fab?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-ffb3d1?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-ff8fab?style=flat-square&logo=fastapi&logoColor=white"/>
+
 
 </div>
+
 - **Languages:** Python, JavaScript, HTML/CSS, Java(Basic) ,C/C++ (Intermediate)
 - **ML/DL Frameworks:** TensorFlow, Keras,Scikit-learn
 - **Computer Vision:** OpenCV, YOLOv11, MediaPipe,DeepFace,FaceNet
