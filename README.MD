@@ -7,8 +7,6 @@
 ## 🛠️ Tech Stack
 <div align="center">
 
-## 🧠 tech stack that hits different
-
 <br>
 
 My fav Languages 💖
