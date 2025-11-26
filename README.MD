@@ -5,6 +5,8 @@
 **I am a **Machine Learning**, **Computer Vision**, and **Natural Language Processing** Specialist 🔥🔥**
 
 ## 🛠️ Tech Stack
+<div align="center">
+
 <img src="https://img.shields.io/badge/TensorFlow-ff6b9d?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-ffc2d1?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-ff8fab?style=flat-square&logo=scikitlearn&logoColor=white"/>
@@ -15,7 +17,7 @@
 <img src="https://img.shields.io/badge/HTML/CSS-ffb3d1?style=flat-square&logo=html5&logoColor=white"/>
 
 
-
+</div>
 - **Languages:** Python, JavaScript, HTML/CSS, Java(Basic) ,C/C++ (Intermediate)
 - **ML/DL Frameworks:** TensorFlow, Keras,Scikit-learn
 - **Computer Vision:** OpenCV, YOLOv11, MediaPipe,DeepFace,FaceNet
