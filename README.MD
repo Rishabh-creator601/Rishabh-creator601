@@ -1,12 +1,18 @@
 
+
 # 👋 Hi, I'm Rishabh!  , <br/>
 **I'm a passionate developer with a deep love for **Machine Learning**, **Computer Vision**, and **Natural Language Processing** !** <br />
 **I am a **Machine Learning**, **Computer Vision**, and **Natural Language Processing** Specialist 🔥🔥**
 
 ## 🛠️ Tech Stack
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-![Python](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+<img src="https://img.shields.io/badge/TensorFlow-ff6b9d?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-ffc2d1?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-ff8fab?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-ffb3d1?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-ff6b9d?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-ffc2d1?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-ff8fab?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML/CSS-ffb3d1?style=flat-square&logo=html5&logoColor=white"/>
 
 
 
