@@ -27,12 +27,6 @@
 
 </div>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/ultralytics-%23111F68.svg?style=for-the-badge&logo=ultralytics&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 - **Languages:** Python, JavaScript, HTML/CSS, Java(Basic) ,C/C++ (Intermediate)
 - **ML/DL Frameworks:** TensorFlow, Keras,Scikit-learn
 - **Computer Vision:** OpenCV, YOLOv11, MediaPipe,DeepFace,FaceNet
