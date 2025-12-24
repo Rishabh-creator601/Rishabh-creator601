@@ -34,6 +34,9 @@ Some childhood Friends :
 
 </div>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 - **Languages:** Python, JavaScript, HTML/CSS, Java(Basic) ,C/C++ (Intermediate)
 - **ML/DL Frameworks:** TensorFlow, Keras,Scikit-learn
 - **Computer Vision:** OpenCV, YOLOv11, MediaPipe,DeepFace,FaceNet
@@ -44,11 +47,15 @@ Some childhood Friends :
 
 ## 🌍 Connect with Me
 ![Kaggle ](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Sololearn](https://img.shields.io/badge/Sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-- Kaggle : [Kaggle | rishabh2007](https://www.kaggle.com/rishabh2007/code?orderBy=dateUpdated)
-- SoloLearn : [sololearn | Rishabh](https://www.sololearn.com/en/profile/17395211)
+- Kaggle     : [Kaggle | rishabh2007](https://www.kaggle.com/rishabh2007/code?orderBy=dateUpdated)
+- SoloLearn  : [sololearn | Rishabh](https://www.sololearn.com/en/profile/17395211)
 - HackerRank : [HackerRank  | rishabh](https://www.hackerrank.com/rashesh369)
-- Medium Writer : [Medium | Rishabh](https://medium.com/@rashesh369)
+- Medium     : [Medium | Rishabh](https://medium.com/@rashesh369)
+- Streamlit  : [Streamlit |  Rishabh](https://share.streamlit.io/user/rishabh-creator601)
 
 
 ## Achievements:
