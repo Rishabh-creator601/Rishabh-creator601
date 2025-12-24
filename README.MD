@@ -9,27 +9,20 @@
 
 <br>
 
-My fav Languages 💖
+**Some Childhood Friends 😃😃 💖**
 <br><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<img src="https://img.shields.io/badge/C++-ff8fab?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML/CSS-ffb3d1?style=flat-square&logo=html5&logoColor=white"/>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-AI/Ml Frameworks I like :
+**AI/Ml Frameworks that comes in my dreams 🌒**
 <br><br>
-<img src="https://img.shields.io/badge/TensorFlow-ff6b9d?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-ffc2d1?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-ff8fab?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-ffb3d1?style=flat-square&logo=keras&logoColor=white"/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-Some childhood Friends : 
-<br><br>
-<img src="https://img.shields.io/badge/Pandas-ff6b9d?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-ffc2d1?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ff8fab?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-ffb3d1?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-ff8fab?style=flat-square&logo=fastapi&logoColor=white"/>
 
 
 </div>
