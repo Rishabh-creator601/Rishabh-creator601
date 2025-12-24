@@ -47,16 +47,6 @@
 - Medium     : [Medium | Rishabh](https://medium.com/@rashesh369)
 - Streamlit  : [Streamlit |  Rishabh](https://share.streamlit.io/user/rishabh-creator601)
 
-
-## Achievements:
-![HackerRank 5★](https://img.shields.io/badge/HackerRank-5%20★-brightgreen?logo=hackerrank)
-
-1) **HackerRank**: Achieved **5⭐ in Python**.  
-2) **Kaggle rank** : Under 5k 
-
-
-
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=rishabh-creator601&style=for-the-badge&color=ff6b9d"/>
