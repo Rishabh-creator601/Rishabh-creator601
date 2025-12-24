@@ -11,8 +11,8 @@
 
 My fav Languages 💖
 <br><br>
-<img src="https://img.shields.io/badge/Python-ff6b9d?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-ffc2d1?style=flat-square&logo=javascript&logoColor=white"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <img src="https://img.shields.io/badge/C++-ff8fab?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML/CSS-ffb3d1?style=flat-square&logo=html5&logoColor=white"/>
 
@@ -36,6 +36,9 @@ Some childhood Friends :
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/ultralytics-%23111F68.svg?style=for-the-badge&logo=ultralytics&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 - **Languages:** Python, JavaScript, HTML/CSS, Java(Basic) ,C/C++ (Intermediate)
 - **ML/DL Frameworks:** TensorFlow, Keras,Scikit-learn
