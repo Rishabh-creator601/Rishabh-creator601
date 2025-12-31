@@ -4,6 +4,8 @@
 **I'm a passionate developer with a deep love for **Machine Learning**, **Computer Vision**, and **Natural Language Processing** !** <br />
 **I am a **Machine Learning**, **Computer Vision**, and **Natural Language Processing** Specialist 🔥🔥**
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=footer"/>
+
 ## 🛠️ Tech Stack
 <div align="center">
 
@@ -53,5 +55,5 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=footer"/>
+
 
