@@ -4,7 +4,7 @@
 **I'm a passionate developer with a deep love for **Machine Learning**, **Computer Vision**, and **Natural Language Processing** !** <br />
 **I am a **Machine Learning**, **Computer Vision**, and **Natural Language Processing** Specialist 🔥🔥**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=rishabh-creator601&style=for-the-badge&color=ff6b9d"/>
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -51,9 +51,10 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=rishabh-creator601&style=for-the-badge&color=ff6b9d"/>
+
 
 </div>
 
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=footer"/>
