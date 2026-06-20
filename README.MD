@@ -32,10 +32,11 @@
 - **Languages:** Python, JavaScript, HTML/CSS, Java(Basic) ,C/C++ (Intermediate)
 - **ML/DL Frameworks:** TensorFlow, Keras,Scikit-learn
 - **Computer Vision:** OpenCV, YOLOv11, MediaPipe,DeepFace,FaceNet
-- **MLOPS :**  FastAPI,Pydantic , DVC pipeline 
+- **MLOPS :**  FastAPI,Pydantic 
 - **NLP:** spaCy, NLTK, HuggingFace Transformers,genism
 - **Web Tools:** Streamlit, Flask
 - **Tools & Platforms:** Git, Colab, Jupyter, VS Code, Obsidian,kaggle 
+- **AI Tools **:  Gemini , Claude 
 
 ## 🌍 Connect with Me
 ![Kaggle ](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
