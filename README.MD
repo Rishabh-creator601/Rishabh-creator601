@@ -43,12 +43,14 @@
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Sololearn](https://img.shields.io/badge/Sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 - Kaggle     : [Kaggle | rishabh2007](https://www.kaggle.com/rishabh2007/code?orderBy=dateUpdated)
 - SoloLearn  : [sololearn | Rishabh](https://www.sololearn.com/en/profile/17395211)
 - HackerRank : [HackerRank  | rishabh](https://www.hackerrank.com/rashesh369)
 - Medium     : [Medium | Rishabh](https://medium.com/@rashesh369)
 - Streamlit  : [Streamlit |  Rishabh](https://share.streamlit.io/user/rishabh-creator601)
+- Linkedln : [Linkeldn |  Rishabh](www.linkedin.com/in/rishabh-agarwal-251373418)
 
 <br>
 
