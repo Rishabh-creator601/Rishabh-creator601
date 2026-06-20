@@ -50,7 +50,7 @@
 - HackerRank : [HackerRank  | rishabh](https://www.hackerrank.com/rashesh369)
 - Medium     : [Medium | Rishabh](https://medium.com/@rashesh369)
 - Streamlit  : [Streamlit |  Rishabh](https://share.streamlit.io/user/rishabh-creator601)
-- Linkedln : [Linkeldn |  Rishabh](www.linkedin.com/in/rishabh-agarwal-251373418)
+- Linkedln : [Linkeldn |  Rishabh](https://www.linkedin.com/in/rishabh-agarwal-251373418/)
 
 <br>
 
