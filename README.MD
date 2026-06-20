@@ -36,7 +36,7 @@
 - **NLP:** spaCy, NLTK, HuggingFace Transformers,genism
 - **Web Tools:** Streamlit, Flask
 - **Tools & Platforms:** Git, Colab, Jupyter, VS Code, Obsidian,kaggle 
-- **AI Tools **:  Gemini , Claude 
+- **AI Tools**:  Gemini , Claude 
 
 ## 🌍 Connect with Me
 ![Kaggle ](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
