@@ -4,15 +4,16 @@
 **I'm a passionate developer with a deep love for **Machine Learning**, **Computer Vision**, and **Natural Language Processing** !** <br />
 **I am a **Machine Learning**, **Computer Vision**, and **Natural Language Processing** Specialist 🔥🔥**
 
+
+<div style="display:flex"> 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://rishabh-agarwal-five.vercel.app/)
 
 <img src="https://komarev.com/ghpvc/?username=rishabh-creator601&style=for-the-badge&color=ff6b9d"/>
-
+</div> 
 
 <div>
 
  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-creator601&show_icons=true&theme=transparent"/>
-	    <img alt="Rishabh's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=rishabh-creator601&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 
 </div>
 
