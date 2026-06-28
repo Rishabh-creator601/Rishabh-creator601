@@ -8,6 +8,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=rishabh-creator601&style=for-the-badge&color=ff6b9d"/>
 
+
+<div>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=rishabh-creator601&show_icons=true&theme=transparent"/>
+	    <img alt="Rishabh's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=rishabh-creator601&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+
+</div>
+
 ## 🛠️ Tech Stack
 <div align="center">
 
