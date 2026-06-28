@@ -5,7 +5,11 @@
 **I am a **Machine Learning**, **Computer Vision**, and **Natural Language Processing** Specialist 🔥🔥**
 
 
-[![Portfolio |  Visit Site ](https://img.shields.io/badge/%E2%96%B2_PORTFOLIO-2B2B2B?style=for-the-badge)](https://rishabh-agarwal-five.vercel.app/) ![Profile Views](https://komarev.com/ghpvc/?username=rishabh-creator601&label=PROFILE+VIEWS&color=ff5a8a&style=for-the-badge)
+<p align="center">
+  <a href="https://rishabh-agarwal-five.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-2B2B2B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://rishabh-agarwal-five.vercel.app/"><img src="https://img.shields.io/badge/VISIT_SITE-1565F0?style=for-the-badge" alt="Visit Site" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rishabh-creator601&label=PROFILE+VIEWS&color=ff5a8a&style=for-the-badge" alt="Profile Views" />
+</p>
 
 
 
