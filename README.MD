@@ -52,18 +52,15 @@
 - **AI Tools**:  Gemini , Claude 
 
 ## 🌍 Connect with Me
-![Kaggle ](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![Sololearn](https://img.shields.io/badge/Sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-- Kaggle     : [Kaggle | rishabh2007](https://www.kaggle.com/rishabh2007/code?orderBy=dateUpdated)
-- SoloLearn  : [sololearn | Rishabh](https://www.sololearn.com/en/profile/17395211)
-- HackerRank : [HackerRank  | rishabh](https://www.hackerrank.com/rashesh369)
-- Medium     : [Medium | Rishabh](https://medium.com/@rashesh369)
-- Streamlit  : [Streamlit |  Rishabh](https://share.streamlit.io/user/rishabh-creator601)
-- Linkedln : [Linkeldn |  Rishabh](https://www.linkedin.com/in/rishabh-agarwal-251373418/)
+<p align="center">
+  <a href="https://www.kaggle.com/rishabh2007/code?orderBy=dateUpdated" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://medium.com/@rashesh369" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.sololearn.com/en/profile/17395211" target="_blank"><img src="https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white" alt="SoloLearn" /></a>
+  <a href="https://www.hackerrank.com/rashesh369" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://share.streamlit.io/user/rishabh-creator601" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></a>
+  <a href="https://www.linkedin.com/in/rishabh-agarwal-251373418/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 <br>
 
