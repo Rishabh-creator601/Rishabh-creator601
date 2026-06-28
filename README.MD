@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-2B2B2B?style=for-the-badge)](https://rishabh-agarwal-five.vercel.app/) [![Visit Site](https://img.shields.io/badge/VISIT_SITE-1565F0?style=for-the-badge)](https://rishabh-agarwal-five.vercel.app/) ![Profile Views](https://komarev.com/ghpvc/?username=rishabh-creator601&label=PROFILE+VIEWS&color=ff5a8a&style=for-the-badge)
 
-<img src="https://komarev.com/ghpvc/?username=rishabh-creator601&style=for-the-badge&color=ff6b9d"/>
+
 
 
 <div>
