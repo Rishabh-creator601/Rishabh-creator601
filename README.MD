@@ -39,6 +39,7 @@
 - **ML/DL Frameworks:** TensorFlow, Keras,Scikit-learn
 - **Computer Vision:** OpenCV, YOLOv11, MediaPipe,DeepFace,FaceNet
 - **MLOPS :**  FastAPI,Pydantic 
+- **Databases** :  SQL(Basic)
 - **NLP:** spaCy, NLTK, HuggingFace Transformers,genism
 - **Web Tools:** Streamlit, Flask
 - **Tools & Platforms:** Git, Colab, Jupyter, VS Code, Obsidian,kaggle 
