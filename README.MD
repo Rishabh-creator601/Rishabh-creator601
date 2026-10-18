@@ -37,13 +37,16 @@
 
 - **Languages:** Python, JavaScript, HTML/CSS, Java(Basic) ,C/C++ (Intermediate)
 - **ML/DL Frameworks:** TensorFlow, Keras,Scikit-learn
+- **AI Tools**:  Gemini , Claude ,Chatgpt 
+- **Agentic Coding** :  Claude (Custom Commands , Skill , Plugins , Hooks , SDD )
+- **Gen AI** : LangChain , Rag Applications
 - **Computer Vision:** OpenCV, YOLOv11, MediaPipe,DeepFace,FaceNet
 - **MLOPS :**  FastAPI,Pydantic 
 - **Databases** :  SQL(Basic)
 - **NLP:** spaCy, NLTK, HuggingFace Transformers,genism
 - **Web Tools:** Streamlit, Flask
 - **Tools & Platforms:** Git, Colab, Jupyter, VS Code, Obsidian,kaggle 
-- **AI Tools**:  Gemini , Claude 
+
 
 ## 🌍 Connect with Me
 
