@@ -40,7 +40,7 @@
 - **Agentic Coding** :  Claude (Custom Commands , Skill , Plugins , Hooks , SDD )
 - **Gen AI** : LangChain , Rag Applications
 - **Computer Vision:** OpenCV, YOLOv11, MediaPipe,DeepFace,FaceNet
-- **MLOPS :**  FastAPI,Pydantic 
+- **MLOPS :**  FastAPI,Pydantic ,docker 
 - **Databases** :  SQL(Basic)
 - **NLP:** spaCy, NLTK, HuggingFace Transformers,genism
 - **Web Tools:** Streamlit, Flask
