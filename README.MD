@@ -45,7 +45,7 @@
 - **NLP:** spaCy, NLTK, HuggingFace Transformers,genism
 - **Web Tools:** Streamlit, Flask
 - **Tools & Platforms:** Git, Colab, Jupyter, VS Code, Obsidian,kaggle 
-- **AI Tools**:  Gemini , Claude ,Chatgpt 
+- **AI Tools**:  Gemini , Claude ,Chatgpt ,Cursor 
 
 
 ## 🌍 Connect with Me
