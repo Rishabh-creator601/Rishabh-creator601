@@ -38,7 +38,7 @@
 - **Languages:** Python, JavaScript, HTML/CSS, Java(Basic) ,C/C++ (Intermediate)
 - **ML/DL Frameworks:** TensorFlow, Keras,Scikit-learn
 - **Agentic Coding** :  Claude (Custom Commands , Skill , Plugins , Hooks , SDD )
-- **Gen AI** : LangChain , Rag Applications
+- **Gen AI** : LangChain , Rag Applications, Langgraph , Langsmith 
 - **Computer Vision:** OpenCV, YOLOv11, MediaPipe,DeepFace,FaceNet
 - **MLOPS :**  FastAPI,Pydantic ,docker 
 - **Databases** :  SQL(Basic)
